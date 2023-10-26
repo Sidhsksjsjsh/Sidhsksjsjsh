@@ -11,5 +11,5 @@ Join Vortex Discord Server!
 My Social Media:  
 Pastebin: [EXOTIC_HUBX](https://pastebin.com/u/EXOTIC_HUBX)  
 Tiktok: [@capviktor](https://www.tiktok.com/@capviktor) < pls follow  
-Instagram: @FuckByfron (Suspended)  
-discord: tora4172  
+ScriptBlox: (FahriScripter)[https://scriptblox.com/u/FahriScripter]  
+Discord: (tora4172)[https://discordapp.com/users/95556491402871604]  
