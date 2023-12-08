@@ -15,6 +15,8 @@
 
 and i can make animation or game with ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
+i used ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) to fix my code 😭💀☠️
+
 ## About Me
 
 Hello !  
@@ -29,6 +31,6 @@ Join Vortex Discord Server!
 
 My Social Media:  
 Pastebin: [EXOTIC_HUBX](https://pastebin.com/u/EXOTIC_HUBX)  
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) Tiktok: [@capviktor](https://www.tiktok.com/@capviktor) < pls follow  
+![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) [@capviktor](https://www.tiktok.com/@capviktor) < pls follow  
 ScriptBlox: [FahriScripter](https://scriptblox.com/u/FahriScripter)  
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) Discord: [tora4172](https://discordapp.com/users/95556491402871604)  
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [tora4172](https://discordapp.com/users/95556491402871604)  
