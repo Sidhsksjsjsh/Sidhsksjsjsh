@@ -2,6 +2,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Sidhsksjsjsh&show_icons=true&theme=radical)
 
+## About Me
+
 Hello !  
 i like making scripts for roblox and this is open source.  
 
