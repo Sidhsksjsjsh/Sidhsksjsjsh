@@ -1,7 +1,5 @@
 ## Github Stats
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Sidhsksjsjsh&show_icons=true&theme=radical)
-
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sidhsksjsjsh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhsksjsjsh&layout=compact)
