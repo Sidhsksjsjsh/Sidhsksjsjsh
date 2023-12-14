@@ -19,6 +19,8 @@ i use ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge
 
 ## About Me
 
+[![Total Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sidhsksjsjsh/Fe-Vortex-admin-V2&count_bg=#79C83D&title_bg=#555555&icon=&icon_color=#E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+
 Hello !  
 i like making scripts for roblox and this is open source.  
 
