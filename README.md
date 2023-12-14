@@ -19,7 +19,7 @@ i use ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge
 
 ## About Me
 
-[![Total Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sidhsksjsjsh&count_bg=#79C83D&title_bg=#555555&icon=&icon_color=#E7E7E7&title=PAGE+VIEWS&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Sidhsksjsjsh&count_bg=%23000000&title_bg=%23000000&icon=apachecassandra.svg&icon_color=%23FFFFFF&title=Total+Views&edge_flat=false)](https://hits.seeyoufarm.com)
 
 Hello !  
 i like making scripts for roblox and this is open source.  
