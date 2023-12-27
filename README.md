@@ -1,8 +1,14 @@
-## Github Stats
+## Github Stats Sidhsksjsjsh
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Sidhsksjsjsh&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sidhsksjsjsh&layout=compact)
+
+[![Fahri's github trophy](https://github-profile-trophy.vercel.app/?username=Sidhsksjsjsh&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidhsksjsjsh&theme=blue-green)
+
+[![GitHub followers](https://img.shields.io/github/followers/Sidhsksjsjsh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sidhsksjsjsh?tab=followers)
 
 ## A language that I can use for coding
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -29,7 +35,7 @@ developer of [Vortex Admin](https://github.com/Sidhsksjsjsh/Fe-Vortex-admin-V2/b
 [Raw version](https://raw.githubusercontent.com/Sidhsksjsjsh/Fe-Vortex-admin-V2/main/VortexCompany/C4/Discord.lua)  
 
 Join Vortex Discord Server!  
-[Vortex Community](https://discord.gg/ZcnSSpH63u)  
+[![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.gg/ZcnSSpH63u)
 
 My Social Media:  
 Pastebin: [EXOTIC_HUBX](https://pastebin.com/u/EXOTIC_HUBX)  
