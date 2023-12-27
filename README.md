@@ -47,3 +47,11 @@ Pastebin: [EXOTIC_HUBX](https://pastebin.com/u/EXOTIC_HUBX)
 ScriptBlox: [FahriScripter](https://scriptblox.com/u/FahriScripter)  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [tora4172](https://discordapp.com/users/95556491402871604)  
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Sidhsksjsjsh)
+
+[![Pastebin](https://badgen.net/badge/icon/pastebin?icon=pastebin&label)](https://pastebin.com/u/EXOTIC_HUBX)
+
+[![TikTok](https://badgen.net/badge/icon/tiktok?icon=tiktok&label)](https://www.tiktok.com/@capviktor)
+
+[![Scriptblox](https://badgen.net/badge/icon/scriptblox?icon=scriptblox&label)](https://scriptblox.com/u/FahriScripter)
+
+[![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://discordapp.com/users/95556491402871604)
