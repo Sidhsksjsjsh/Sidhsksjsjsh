@@ -6,7 +6,9 @@
 
 [![Fahri's github trophy](https://github-profile-trophy.vercel.app/?username=Sidhsksjsjsh&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidhsksjsjsh&theme=blue-green)
+![Fahri's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Sidhsksjsjsh&theme=blue-green)
+
+[![Sparkline](https://stars.medv.io/Sidhsksjsjsh/badges.svg)](https://stars.medv.io/Sidhsksjsjsh/badges)
 
 [![GitHub followers](https://img.shields.io/github/followers/Sidhsksjsjsh.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Sidhsksjsjsh?tab=followers)
 
@@ -34,6 +36,8 @@ call me fahri :)
 developer of [Vortex Admin](https://github.com/Sidhsksjsjsh/Fe-Vortex-admin-V2/blob/8159d5dd2498696807c2a387ddfd93df515c8c7e/VortexCompany/C4/Discord.lua)  
 [Raw version](https://raw.githubusercontent.com/Sidhsksjsjsh/Fe-Vortex-admin-V2/main/VortexCompany/C4/Discord.lua)  
 
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Sidhsksjsjsh/Fe-Vortex-admin-V2/blob/8159d5dd2498696807c2a387ddfd93df515c8c7e/VortexCompany/C4/Discord.lua)
+
 Join Vortex Discord Server!  
 [![Support Server](https://img.shields.io/discord/591914197219016707.svg?color=7289da&label=TestingMeme&logo=discord&style=flat-square)](https://discord.gg/ZcnSSpH63u)
 
@@ -42,3 +46,4 @@ Pastebin: [EXOTIC_HUBX](https://pastebin.com/u/EXOTIC_HUBX)
 ![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) [@capviktor](https://www.tiktok.com/@capviktor) < pls follow  
 ScriptBlox: [FahriScripter](https://scriptblox.com/u/FahriScripter)  
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white) [tora4172](https://discordapp.com/users/95556491402871604)  
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/Sidhsksjsjsh)
